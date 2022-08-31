@@ -11,12 +11,12 @@ div.fs24 {
 } */
 
 .red-pink {
-    background-color: #ffa7a7;
+    background-color: rgb(255, 167, 167);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #num2 {
-    color: blue;
+    color: #0000ff;
     font-size: 36px;    
 }
 
@@ -26,6 +26,6 @@ div.fs24 {
 
 #num4 {
     font-size: 24px; 
-    background-color: #80ff80;
+    background-color: hsl(120, 100%, 75%);
     font-weight: bold;    
 }
